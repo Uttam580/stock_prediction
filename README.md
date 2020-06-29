@@ -15,3 +15,4 @@ Simple stock predictionapplication to demonstrate prediction using fbprophet and
 # Installation
 
 * Download the entire repository as a folder and open ```app.py``` and run it with IDE . That's it!
+   http://127.0.0.1:5001/
