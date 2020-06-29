@@ -5,6 +5,8 @@ Simple stock predictionapplication to demonstrate prediction using fbprophet and
 
 ![](view.PNG)
 
+[![Watch the video](view.PNG)](https://www.youtube.com/watch?v=tt96f5L5u4c)
+
 # Contents
 
 * ```app.py``` - Front and back end portion of the web application excluding css and static data
