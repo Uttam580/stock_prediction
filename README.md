@@ -2,7 +2,7 @@
 Simple stock predictionapplication to demonstrate prediction using fbprophet and integrating dash core components and http requests. 
 
 
-![](appview.PNG)
+![](view.PNG)
 
 # Contents
 
