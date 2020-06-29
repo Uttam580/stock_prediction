@@ -1,4 +1,5 @@
-# Dash-Stock-App
+# Stock Prediction App
+
 Simple stock predictionapplication to demonstrate prediction using fbprophet and integrating dash core components and http requests. 
 
 
@@ -16,3 +17,10 @@ Simple stock predictionapplication to demonstrate prediction using fbprophet and
 
 * Download the entire repository as a folder and open ```app.py``` and run it with IDE . That's it!
    http://127.0.0.1:5001/
+   
+# Source: 
+ *  https://dash.plotly.com/basic-callbacks
+ *  https://finance.yahoo.com/lookup/
+ *  https://pypi.org/project/fbprophet/
+
+
