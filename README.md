@@ -6,7 +6,7 @@ Simple stock predictionapplication to demonstrate prediction using fbprophet and
 ![](view.PNG)
 
 
-[![vide0_link](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=tt96f5L5u4c)
+[![vide0_link](video.PNG)](https://www.youtube.com/watch?v=tt96f5L5u4c)
 
 
 # Contents
