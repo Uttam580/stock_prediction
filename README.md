@@ -9,7 +9,7 @@ click <a href="https://youtu.be/Bs1v7tfq-2Q" target="_blank">**Stock Market Pred
 
 **quick demo**
 
-![Recordit GIF](hhttp://g.recordit.co/SBvuRoucD5.gif)
+![Recordit GIF](http://g.recordit.co/SBvuRoucD5.gif)
 
 
 # Contents
